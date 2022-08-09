@@ -14,5 +14,8 @@ export default {
   components: {
     HelloWorld,
   },
+  mounted () {
+    let a = "33333";
+  }
 };
 </script>
